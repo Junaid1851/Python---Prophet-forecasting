@@ -5,5 +5,4 @@
 
 
 Line graph  
-![Alt text](Python---Prophet-forecasting
-/Linegraph.png)
+![Alt text](Linegraph.png)
