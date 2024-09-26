@@ -1,7 +1,6 @@
 # Python - Prophet-forecasting
  Forecast 
- ![Alt text](Python---Prophet-forecasting
-/forecast.png)
+ ![Alt text](forecast.png)
 
 
 Line graph  
